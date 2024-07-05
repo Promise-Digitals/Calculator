@@ -5,12 +5,12 @@
     font-family: serif;
 }
 html{
-    --primary-color: #f9f9f9;
-    --secondary-color: #1f2b37;
+    --primary-color: #ffffff;
+    --secondary-color: #181818;
 }
 .dark-mode{
-    --primary-color: #1f2b37;
-    --secondary-color: #f9f9f9;
+    --primary-color: #181818;
+    --secondary-color: #ffffff;
 }
 .container{
     position: relative;
@@ -25,7 +25,7 @@ html{
     position: absolute;
     top: 1%;
     left: 1%;
-    width: 100px;
+    width: 40px;
 }
 #icon {
     position: absolute;
@@ -75,7 +75,7 @@ form .display input{
     text-align: right;
 }
 .design{
-    color:#4f76f6;
+    color:#6660ff;
     font-size: 25px;
     font-weight: 900;
 }
